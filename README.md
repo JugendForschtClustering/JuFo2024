@@ -29,11 +29,3 @@ Führen Sie den Code mit dem Befehl `python dateiname.py` (ersetzen Sie `dateina
 
 Dieser Code ist plattformunabhängig und sollte auf allen Betriebssystemen funktionieren, die Python unterstützen.
 
-## Beitragende
-
-Liste der Personen, die zum Projekt beigetragen haben (falls zutreffend).
-
-## Lizenz
-
-Geben Sie an, unter welcher Lizenz Ihr Projekt steht (falls zutreffend).
-

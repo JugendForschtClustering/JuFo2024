@@ -24,7 +24,7 @@ Stellen Sie sicher, dass Python auf Ihrem System installiert ist.
 ## Ausführung des Codes
 
 Öffnen sie das Jupyter-Notebook in einer Python-IDE Ihrer Wahl (bspw. Visual Studio Code). Führen Sie die Code-Abschnitte in der chronologischen Reihenfolge aus.
-Falls Sie eine Fehlermeldung beim Importieren der Module erhalten sollen, installieren sie diese im Terminal. Achten Sie darauf, dass Sie den korrekten Kernel ausgewählt haben.
+Falls Sie eine Fehlermeldung beim Importieren der Module erhalten sollten, installieren sie diese im Terminal. Achten Sie darauf, dass Sie den korrekten Kernel ausgewählt haben.
 
 ## Betriebssystemkompatibilität
 
